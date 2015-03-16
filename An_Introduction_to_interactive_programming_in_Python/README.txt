@@ -6,7 +6,7 @@ graphical libraries, SimpleGui, SimpleMap, and SimplePlot.
 Without these additional libraries you cannot run most of the scripts, but you can do it on CodeSculptor in
 the following links:
 
-Mini-Project1: http://www.codeskulptor.org/#user39_yJfxkNjFn7_9.py
-Mini-Project2: http://www.codeskulptor.org/#user39_z5ht9ka3jd_19.py
-Mini-Project3: http://www.codeskulptor.org/#user39_RhIe0ePIFo_15.py
+Mini-Project1(RPSLS): http://www.codeskulptor.org/#user39_yJfxkNjFn7_9.py
+Mini-Project2(GuessTheNumber): http://www.codeskulptor.org/#user39_z5ht9ka3jd_19.py
+Mini-Project3(stopWatch): http://www.codeskulptor.org/#user39_RhIe0ePIFo_15.py
 
